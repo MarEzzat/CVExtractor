@@ -27,4 +27,4 @@ Install dependencies:
 pip install pdfplumber transformers torch
 
 ## Google Colab (Notebook link)
-CVExtractor is a Python-based tool... Try it out on [Colab](https://colab.research.google.com/drive/1TPHOcqqqUhQ9MFmOCmswTwYjFbgrV74S?usp=sharing)!
+[Colab](https://colab.research.google.com/drive/1TPHOcqqqUhQ9MFmOCmswTwYjFbgrV74S?usp=sharing)
